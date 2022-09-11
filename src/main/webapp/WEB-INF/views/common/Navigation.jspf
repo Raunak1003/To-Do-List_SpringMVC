@@ -1,0 +1,11 @@
+<nav role="navigation" class="navbar navbar-default navbar-expand-lg navbar-light bg-light">
+		<div class="navbar-collaspe">
+			<ul class="nav navbar-nav">
+				<li ><a href="/">Home</a></li>
+				<li class="active"> <a href="/list-todos">Todos</a>
+			</ul>
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="/logout">Logout</a>
+			</ul>
+		</div>
+	</nav>
